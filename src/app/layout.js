@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
           {children}
         </div>
         <footer className="bg-blue-400 p-5 text-center">
-          This Is My Footer
+          This Is My Footer Section Men
         </footer>
       </body>
     </html>
